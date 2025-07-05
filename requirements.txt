@@ -1,0 +1,8 @@
+# Requried python libraries.
+
+tensorflow
+opencv-python
+numpy
+pandas
+scipy
+scikit-learn
